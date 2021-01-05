@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sam/sam/rename_check.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sam/sam/spiders/beta_sam.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sam/sam/tools.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sam00/sam00/spiders/sam001.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samFileDownLoad/samFileDownLoad/spiders/samfile.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
